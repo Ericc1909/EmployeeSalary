@@ -88,13 +88,10 @@ Mong muốn: 9.5 điểm
 > Go On [Youtube](https://youtu.be/iEfHOloqtRg) To See Project Demo
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! You can also take a look at the [contributing guide](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/CONTRIBUTING.md)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ## 📝 License
-
-Copyright © 2022 [TU NGO NGUYEN QUANG](https://github.com/SmilinOwls).<br />
-This project is [MIT](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/LICENSE) licensed.
+.
