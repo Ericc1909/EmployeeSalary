@@ -76,6 +76,7 @@ Sau khi nhận được đề của đồ án, tôi đã cố gắng hết khả
 |Tìm hiểu factory design pattern và thiết kế theo|Yes|
 |Tính được lương mỗi loại nhân viên và xuất ra tên và lương của nhân viên đó|Yes|
 
+## 📝 Những điều làm được và chưa làm được:
 
 
 ## 💯 Điểm mong muốn
