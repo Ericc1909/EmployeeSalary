@@ -44,7 +44,7 @@
 
 - Có 2 cách để tài xuống đồ án:
 ```sh
-#Tải xuống file zip từ moodle, sau đó giải nén thư mục tên 20120229.
+#Tải xuống file zip từ moodle, sau đó giải nén thư mục tên 20120229-EmployeeSalary.
 #Fork the project trên github, fork này trong một repo được gọi là EmployeeSalary
 git clone https://github.com/Ericc1909/EmployeeSalary
 ```
@@ -97,4 +97,10 @@ Mong muốn: 9.5 điểm
 Hãy tặng ⭐️ cho đồ án này nếu bạn thấy nó hữu ích nhé.
 Cảm ơn bạn rất nhiều
 
-.
+## ✨ Liên hệ với tôi:
+- 👤 **NGUYỄN NHẬT TRƯỜNG**
+
+* MSSV: 20120229
+* Email: 20120229@student.hcmus.edu.vn
+* Github: [@Ericc1909](https://github.com/Ericc1909 "Ericc1909")
+
