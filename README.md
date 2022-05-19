@@ -77,7 +77,10 @@ Sau khi nhận được đề của đồ án, tôi đã cố gắng hết khả
 |Tính được lương mỗi loại nhân viên và xuất ra tên và lương của nhân viên đó|Yes|
 
 ## 📝 Những điều làm được và chưa làm được:
-
+### Đã làm được: 
+Hoàn thành tất cả các yêu cầu của đồ án
+### Chưa làm được:
+Chưa có thêm các hàm bonus, và chưa random được danh sách nhân viên trong file txt do làm bị lỗi và phải bỏ
 
 ## 💯 Điểm mong muốn
 
@@ -86,13 +89,12 @@ Mong muốn: 9.5 điểm
 
 ## 🎥 Demo Video 
 
-> Go On [Youtube](https://youtu.be/iEfHOloqtRg) To See Project Demo
-## 🤝 Contributing
+> Go On [Youtube](https://youtu.be/iEfHOloqtRg) để xem Demo chạy project
 
 
-## Show your support
+## ⭐️ Cảm nhận của bạn
 
-Give a ⭐️ if this project helped you!
+Hãy tặng ⭐️ cho đồ án này nếu bạn thấy nó hữu ích nhé.
+Cảm ơn bạn rất nhiều
 
-## 📝 License
 .
