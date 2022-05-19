@@ -61,7 +61,7 @@ open EmployeeSalary.exe
 ## Kết quả chạy project:
 
 - Sau khi chạy được file chúng ta sẽ thu được kết quả sau, màn hình chạy sẽ in lần lượt tên và Payment của các nhân viên.
-![output](https://github.com/Ericc1909/EmployeeSalary/blob/main/Output.PNG)
+![output](https://github.com/Ericc1909/EmployeeSalary/blob/main/Documents/img/Output.PNG)
 
 
 ## 📅 Working Progress
