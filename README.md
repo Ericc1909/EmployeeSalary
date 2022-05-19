@@ -61,7 +61,7 @@ open EmployeeSalary.exe
 ## Kết quả chạy project:
 
 - Sau khi chạy được file chúng ta sẽ thu được kết quả sau, màn hình chạy sẽ in lần lượt tên và Payment của các nhân viên.
-<img src="https://imgur.com/a/J5MKZA6">
+<img src="https://imgur.com/a/zeKaYOa">
 
       
 ## Author
