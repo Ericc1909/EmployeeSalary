@@ -21,32 +21,34 @@
 
 ### 🏠 [Homepage]
 
-## ✨ Objectives
-   ### Main Target 
-   - Create Simple Classes (File.h, Rand_Student.h, Student.h,..)
-   ### Sub Goal
-   - Practice On Handling Data Stream By `tuple<classs T1,class T2,..>` (when reading & writing file **.txt**)
-   - Using `rand()` Function To Generate Data Randomly (for every each student's infor)
-   - Read A File In `JSON` Format (for address random generator)
-   - Validate Check: Indicate The **Error Line** Position In Text If Wrongly Formatted (bonus function)
-   - Sort A Vector And Save As A Ranked List In **.csv** Format (bonus function)
+## ⭐️ Thông tin sinh viên
+👤 **NGUYỄN NHẬT TRƯỜNG**
 
-## Prerequisites
+* MSSV: 20120229
+* Họ tên: Nguyễn Nhật Trường
 
-- Visual Studio Code 2019 or latest versions
-- Build, Compile & Run on `g++ -std=c++11 [..]` or above
 
-## Install
+## ✨ Mục tiêu:
 
-- Open Terminal (MacOS) or CMD Shell (Windows), then go on command line described below:
+-	Dựa vào các dữ liệu trong file November2021.txt để tạo ra các lớp nhằm đọc và lưu dữ liệu.
+-	Sử dụng fstream để đọc file dữ liệu
+-	Sử dụng kế thừa và đa hình để áp dụng vào các lớp trong bài
+-	Tìm hiểu về kiểu factory design pattern để áp dụng vào bài
+
+## Điều kiện để chạy được bài
+
+- Sử dụng Visual Studio Code 2019 hoặc các version cũ hơn
+- Build, Compile & Run on `g++ -std=c++11 [..]`
+
+## Tải xuống
+
+- Có 2 cách để tài xuống đồ án:
 ```sh
-#Change your direction path to Desktop/ 
-cd Desktop/
-#Fork the project, clone this fork in a repo called MockStudentDataGenerator
-git clone https://github.com/SmilinOwls/MockStudentDataGenerator/ MockStudentDataGenerator
-#Navigate to the newly cloned repo
-cd MockStudentDataGenerator/
+#Tải xuống file zip từ moodle, sau đó giải nén thư mục tên 20120229.
+#Fork the project trên github, fork này trong một repo được gọi là EmployeeSalary
+git clone https://github.com/Ericc1909/EmployeeSalary
 ```
+
 ## Usage
 
 - Open file `.exe` in *Release* folder to run all functions to check wether all requirements are completely done
@@ -78,11 +80,6 @@ open MockStudentDataGenerator.exe
       
 ## Author
 
-👤 **NGO NGUYEN QUANG TU**
-
-* Github: [@SmilinOwls](https://github.com/SmilinOwls "SmilinOwls")
-* Student ID: 20120234
-* Full Name: Ngô Nguyễn Quang Tú
 
 ## 📅 Working Progress
 
