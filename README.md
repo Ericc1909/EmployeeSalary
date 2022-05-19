@@ -49,34 +49,20 @@
 git clone https://github.com/Ericc1909/EmployeeSalary
 ```
 
-## Usage
+## Chạy file:
 
-- Open file `.exe` in *Release* folder to run all functions to check wether all requirements are completely done
+- Mở file exe trong thư mục *Release* để xem kết quả chạy chương trình xem nó có đúng với các yêu cầu của bài chưa
 ```sh
-cd MockStudentDataGenerator/Release
-open MockStudentDataGenerator.exe
+cd EmployeeSalary/Release
+open EmployeeSalary.exe
 ```
-- Then, a console application would be appearing to show all results. If you want to see any differences, just add/delete/change something you want in `students.txt` and run again for any interesting things you hope to show up 
+- Mở file EmployeeSalary.sln hoặc các source code để debug lại chương trình, hy vọng bạn có thể chạy ra đúng kết quả và giống với file exe. Nếu như ra kết quả lỗi, hãy kiểm tra lại file *November2021.txt* trong bài xem nó đã có và đúng thông tin chưa.
 
-## Run tests
+## Kết quả chạy project:
 
-1. Open file *students.txt* to make some mini tests on validating data with format
- * **GPA valid:**
-      ![gpa](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/gpa.png)
- * **Tel valid:**
-      ![tel](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/telephone.png)
- * **Email valid:**
-      ![email](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/email.png)
- * **DOB valid:**
-      ![dob](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/dob.png)
-2. Run every each of four above tests by running *MockStudentDataGenerator.exe* or by command line `open MockStudentDataGenerator.exe`
-3. Wait a second, here are the results all printed out on console to notice about the error format on each specified line, in particular:
-      |     Item    | Specified Error Fomat Message |
-      |-------------|-------------------------------|
-      | GPA| ![gpa_error](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/gpa_error.png)  |
-      |Tel| ![tel_error](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/phone_error.png) |
-      |Email | ![email_error](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/email_error.png)|
-      |DOB | ![dob_error](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/dob_error.png)|
+- Sau khi chạy được file chúng ta sẽ thu được kết quả sau, màn hình chạy sẽ in lần lượt tên và Payment của các nhân viên.
+<img src="https://imgur.com/a/J5MKZA6">
+
       
 ## Author
 
