@@ -63,36 +63,25 @@ open EmployeeSalary.exe
 - Sau khi chạy được file chúng ta sẽ thu được kết quả sau, màn hình chạy sẽ in lần lượt tên và Payment của các nhân viên.
 ![output](https://github.com/Ericc1909/EmployeeSalary/blob/main/Output.PNG)
 
-      
-## Author
-
 
 ## 📅 Working Progress
 
-After project, we both appreciate our experience on our team-working time which we are so grateful for and proud of ourselves. We are on 200% of our ability way to have accomplished one as soon as possible. Hence, all requirements described in [Project Instruction](https://tdquang7.notion.site/Project-Mock-data-generator-1-7c70a1a81b724049bd82ede839e2ff24) are completely met.
+Sau khi nhận được đề của đồ án, tôi đã cố gắng hết khả năng của mình để làm việc và hoàn thành đồ án một cách tốt nhất. Nhìn chung, tất cả các yêu cầu trong  [Project Instruction](https://tdquang7.notion.site/Project-Emloyee-payment-78ac0241bfea4e07b502020b0c20de86) đều được hoàn thành.
 
-|Basic Requirements|Done Status|
+|Các yêu cầu cơ bản |Hoàn thành|
 |------------------|-----------|
-|Read all students saved in the file "students.txt" back into a vector of Student|Yes|
-|Generate randomly a number n in the range of [5, 10]|Yes|
-|Generate randomly n Students and add to the previous vector|Yes|
-|Overwrite and save and the students in the current vector back to the file "students.txt"|Yes|
-|Print out the average GPA of all students|Yes|
-|Print out all the students that have a GPA greater than the average GPA|Yes|
+|Tạo được các lớp lưu các nhân viên|Yes|
+|Đọc được file và lưu thông tin vào từng loại nhân viên|Yes|
+|Sử dụng kế thừa, đa hình trong OOP|Yes|
+|Tìm hiểu factory design pattern và thiết kế theo|Yes|
+|Tính được lương mỗi loại nhân viên và xuất ra tên và lương của nhân viên đó|Yes|
 
-## Bonus Functions
 
- Not only building the essential-coded function, we also add an [external lib]( https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/MockStudentDataGenerator/json.hpp "nlogmann/json.hpp") to help make a better random for [addresses](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/MockStudentDataGenerator/address.json "address") that are written in `JSON` format as well. In addition, there are some bonus functions to check the wrongly-formatted line in file **students.txt** (validate GPA, telephone, email, dob) then indicate where that line is through showing a message on console with line index. If prgramm runs without no failure, based on their own GPA a <i> .csv </i> ranked list will be released demonstrating the TOP students sorted ASC with ranked order. 
- 
-> *Sample Ranked List of T.O.P GPA Students:*
-<div align='center'> <img alt='ranking' src="https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/Documents/img/rankings.png"/> </div>
 
-## 💯 Expected Grades
+## 💯 Điểm mong muốn
 
-|Student ID| Workload |  Fulfilled-Work Percent | Subjective Grade |
-|----------|----------|-------------------------|------------------|
-|20120234  | an author of README.md, mainly responsible for every each aspect of project/solution (Source code, Release, Documents/img), so on..  |       100%          |          9.5        |
-|20120229  |  draw class diagrams, write a detailed report,..        |               100%          |         9.5         |
+Với những cố gắng trong thời gian làm đồ án. Tôi mong muốn sẽ có số điểm để mình cảm thấy vui với những điều mình đã làm.
+Mong muốn: 9.5 điểm
 
 ## 🎥 Demo Video 
 
